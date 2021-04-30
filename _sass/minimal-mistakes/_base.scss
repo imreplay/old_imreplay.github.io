@@ -2,6 +2,13 @@
    BASE ELEMENTS
    ========================================================================== */
 
+@font-face {
+    font-family: 'Arita-dotum-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-dotum-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -182,7 +189,7 @@ td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: 0.8em;
-  background: $code-background-color;
+  background: #456789;//$code-background-color;
   border-radius: $border-radius;
 
   &:before,
