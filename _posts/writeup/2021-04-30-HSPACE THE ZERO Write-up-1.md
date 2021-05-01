@@ -628,7 +628,7 @@ FLAG: hspace{warrior_is_very_strong}
 
 ## [MOBILE] Pengsu Wallet
 
-![](/assets/post/HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/PengsuWriteup_1.png)
+![](/assets/post/HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/PengsuWriteup_1.jpg)
 
 ![](/assets/post/HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/PengsuWriteup_2.png)
 
