@@ -185,7 +185,7 @@ FLAG: hspace{g00d_go0d_s3rver_S1de_Temp14te_InJection!!}
 
 1. 에피소드
 
-문제 에피소드: 2020년 2020 BoB 9기 CTF 당시 "**Fun Fun Game**"(라온 펀펀 모티브)이라는 웹 문제로 게임을 출제 했을 당시 괜찮다고 해서 이번에도 비슷한 방식으로 게임을 출제함. ([https://core-research-team.github.io/2020-09-01/2020-BoB-CTF-Write-up-2#48ebbbc5-61a9-4180-a3cf-84bb289d683a](https://core-research-team.github.io/2020-09-01/2020-BoB-CTF-Write-up-2#48ebbbc5-61a9-4180-a3cf-84bb289d683a))
+문제 에피소드: 2020년 2020 BoB 9기 CTF 당시 "**Fun Fun Game**" 이라는 웹 문제로 게임을 출제 했을 당시 괜찮다고 해서 이번에도 비슷한 방식으로 게임을 출제함. ([https://core-research-team.github.io/2020-09-01/2020-BoB-CTF-Write-up-2#48ebbbc5-61a9-4180-a3cf-84bb289d683a](https://core-research-team.github.io/2020-09-01/2020-BoB-CTF-Write-up-2#48ebbbc5-61a9-4180-a3cf-84bb289d683a))
 
 ![](/assets/post/HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/Attack.gif)
 
