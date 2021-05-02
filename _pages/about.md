@@ -29,6 +29,6 @@ SaturnX is a team that researches hacking and computer security technologies.
 - [Ravidus](https://ravidusash.tistory.com/){:target="_blank"}
 - [Sori](https://exploitsori.tistory.com/){:target="_blank"}
 - [tting](https://ttingnote.tistory.com){:target="_blank"}
-- [vulnhack](https://blog.naver.com/okopok5019){:target="_blank"}
+- [vulhack](https://blog.naver.com/okopok5019){:target="_blank"}
 - [wwwlk](#)
 - [zairo](https://zairo.tistory.com/){:target="_blank"}
