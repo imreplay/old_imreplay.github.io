@@ -601,7 +601,7 @@ Java.perform(function(){
 
 **[실행 화면]**
 
-[HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/output(crop-video.com).mp4](HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/output(crop-video.com).mp4)
+![](/assets/post/HSPACE%20CTF%20THE%20ZERO%20Write-up%2091ac8e6fcfa64ea3ba4259919f19470e/Adventure%20of%20Warrior.gif)
 
 ---
 
