@@ -2,11 +2,15 @@
    BASE ELEMENTS
    ========================================================================== */
 
-
+@font-face {
+    font-family: 'Arita-dotum-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-dotum-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 html {
   /* sticky footer fix */
-  position: relative;
   min-height: 100%;
 }
 
@@ -183,8 +187,11 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.8em;
-  background: #456789;//$code-background-color;
+  font-size: 1em;
+  font-family: Monaco,Consolas,"Lucida Console","Arita-dotum-Medium",monospace;
+  font-weight: bold;
+  color: #d3795e;
+  background: #2f3e46;//$code-background-color;
   border-radius: $border-radius;
 
   &:before,
