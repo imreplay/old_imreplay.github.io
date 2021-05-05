@@ -16,6 +16,7 @@ SaturnX is a team that researches hacking and computer security technologies.
 
 # Members
 - [addins](#)
+- [bbq9014](https://k-owl.tistory.com/){:target="_blank"}
 - [BadSpell](https://badspell.org/){:target="_blank"}
 - [Bugday](https://bugday.tistory.com/){:target="_blank"}
 - [choiys](https://choiys.kr/){:target="_blank"}
