@@ -1,35 +1,34 @@
 ---
 permalink: /about/
-title: ""
-excerpt: "Team SaturnX Blog"
-toc: true
+title: "About me"
+excerpt: "About me"
 
 ---
 
-# About SaturnX
-![SaturnX](/assets/images/logo.png)
-SaturnX는 해킹과 컴퓨터 보안 기술을 연구하는 팀 입니다.<br>
-SaturnX is a team that researches hacking and computer security technologies.
-- email: saturnx.korea@gmail.com
-<br>
-<br>
+---
 
-# Members
-- [addins](#)
-- [bbq9014](https://k-owl.tistory.com/){:target="_blank"}
-- [BadSpell](https://badspell.org/){:target="_blank"}
-- [Bugday](https://bugday.tistory.com/){:target="_blank"}
-- [choiys](https://choiys.kr/){:target="_blank"}
-- [DongDongE](https://blog.d0ngd0nge.xyz/){:target="_blank"}
-- [gpsfly](https://blog.int80.kr/){:target="_blank"}
-- [imreplay](https://imreplay.com){:target="_blank"}
-- [kkamikoon](https://kkamikoon.tistory.com/){:target="_blank"}
-- [KuroNeko](https://nekoplu5.tistory.com){:target="_blank"}
-- [onestar](https://onestar.tistory.com/){:target="_blank"}
-- [pil9](https://pil9.github.io/){:target="_blank"}
-- [Ravidus](https://ravidusash.tistory.com/){:target="_blank"}
-- [Sori](https://exploitsori.tistory.com/){:target="_blank"}
-- [tting](https://ttingnote.tistory.com){:target="_blank"}
-- [vulhack](https://blog.naver.com/okopok5019){:target="_blank"}
-- [wwwlk](#)
-- [zairo](https://zairo.tistory.com/){:target="_blank"}
+![](/assets/images/profile/imreplay.jpg)
+
+### 소속
+
+- 라온화이트햇 핵심연구팀 연구원 (2021.02 ~ )
+- 해킹&보안팀 SaturnX (2021.02)
+- 국립목포대학교 정보보호학과 (2015.03 ~ )
+- 대한민국 공군 사이버방호센터 (2017.01 ~ 2018.12)
+
+---
+
+### 경력
+
+- 차세대 보안리더 양성 프로그램 BoB(Best of the Best) 9기 취약점 분석트랙(2020.07 ~ 2021.03)
+- 대학정보보호동아리연합회 KUCIS 운영진(2016.03 ~ 2016.12)
+- 국립목포대학교 정보보안동아리 SecuMaster 부회장(2016.03 ~ 2016.12)
+
+---
+
+### 수상
+
+- 국립목포대학교 정보보호페스티벌 해킹대회 대상(2015, 2016)
+- 스마트미디어학회 추계학술대회 우수논문상(2019)
+
+---

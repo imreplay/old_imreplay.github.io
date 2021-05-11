@@ -1,28 +1,3 @@
-SaturnX:
-  name             : "SaturnX"
-  avatar           : "/assets/images/saturnX.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SaturnX Team Blog"
-  location         : "Republic of Korea"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:saturnx.korea@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-alt"
-      url: "https://github.com/SaturnX-Korea"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 Imreplay:
   name: "Imreplay"
   bio: "Hello I'm replay."
@@ -47,5 +22,3 @@ Imreplay:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/im_replay"
-Zairo:
-  name: "Zairo"
