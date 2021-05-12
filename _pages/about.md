@@ -7,13 +7,13 @@ excerpt: "About me"
 
 ---
 
-![](/assets/images/profile/imreplay.jpg)
+![](/assets/images/profile/imreplay.jpg){: width="50%" height="50%"}
 
 ### 소속
 
 - 라온화이트햇 핵심연구팀 연구원 (2021.02 ~ )
-- 해킹&보안팀 SaturnX (2021.02)
-- 국립목포대학교 정보보호학과 (2015.03 ~ )
+- 해킹&보안팀 SaturnX (2021.02 ~)
+- 국립목포대학교 정보보호학과 (2015.03 ~ 2021.08)
 - 대한민국 공군 사이버방호센터 (2017.01 ~ 2018.12)
 
 ---
