@@ -1,7 +1,0 @@
-name: Algolia Jekyll Action
-  # You may pin to the exact commit or the version.
-  # uses: dieghernan/algolia-jekyll-action@37e24cce44f139a20726bbb37f3e4df00109a17b
-  uses: dieghernan/algolia-jekyll-action@v1
-  with:
-    # Algolia API Key
-    APIKEY: 9eabb692783580e6f2b7937b6ba1d3e3
